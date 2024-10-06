@@ -2,7 +2,7 @@
 
 int main()
 {
-	int mon, prod, chan, a, b, c, d, e, f = 0; // 변수 선언.
+	int mon, prod, chan, a, b, c, d, e = 0; // 변수 선언.
 
 	printf("투입한 금액과 물건 값을 적으시오. : ");
 
