@@ -1,0 +1,6 @@
+﻿  예제.cpp
+C:\Users\111\Documents\ProgrammingCJU2024\예제\예제.cpp(10,13): warning C4477: 'scanf_s' : 서식 문자열 '%c'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'size_t'입니다.
+      C:\Users\111\Documents\ProgrammingCJU2024\예제\예제.cpp(10,13):
+      이 인수는 버퍼 크기로 사용됩니다.
+  
+  예제.vcxproj -> C:\Users\111\Documents\ProgrammingCJU2024\예제\x64\Debug\예제.exe
