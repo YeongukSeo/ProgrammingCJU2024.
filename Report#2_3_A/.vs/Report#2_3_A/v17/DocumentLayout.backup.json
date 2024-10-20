@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\111\\Documents\\ProgrammingCJU2024\\Report#2_3_A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A95B24C0-1DC5-470B-A3E4-421F7AF78801}|Report#2_3_A.vcxproj|C:\\Users\\111\\Documents\\ProgrammingCJU2024\\Report#2_3_A\\Report#2_3_A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A95B24C0-1DC5-470B-A3E4-421F7AF78801}|Report#2_3_A.vcxproj|solutionrelative:Report#2_3_A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report#2_3_A.cpp",
+              "DocumentMoniker": "C:\\Users\\111\\Documents\\ProgrammingCJU2024\\Report#2_3_A\\Report#2_3_A.cpp",
+              "RelativeDocumentMoniker": "Report#2_3_A.cpp",
+              "ToolTip": "C:\\Users\\111\\Documents\\ProgrammingCJU2024\\Report#2_3_A\\Report#2_3_A.cpp",
+              "RelativeToolTip": "Report#2_3_A.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T15:23:38.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
