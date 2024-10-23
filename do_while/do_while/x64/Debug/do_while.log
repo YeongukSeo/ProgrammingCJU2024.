@@ -1,0 +1,3 @@
+﻿  do_while.cpp
+C:\Users\111\Documents\ProgrammingCJU2024\do_while\do_while.cpp(4,37): warning C4101: 'memo' :참조되지 않은 지역 변수입니다.
+  do_while.vcxproj -> C:\Users\111\Documents\ProgrammingCJU2024\do_while\x64\Debug\do_while.exe

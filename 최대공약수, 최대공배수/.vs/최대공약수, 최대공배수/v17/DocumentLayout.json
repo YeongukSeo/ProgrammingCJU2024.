@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\111\\Documents\\ProgrammingCJU2024\\\uCD5C\uB300\uACF5\uC57D\uC218, \uCD5C\uB300\uACF5\uBC30\uC218\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F73574-6980-4098-9388-4C6EA8B90E79}|\uCD5C\uB300\uACF5\uC57D\uC218, \uCD5C\uB300\uACF5\uBC30\uC218.vcxproj|C:\\Users\\111\\Documents\\ProgrammingCJU2024\\\uCD5C\uB300\uACF5\uC57D\uC218, \uCD5C\uB300\uACF5\uBC30\uC218\\\uCD5C\uB300\uACF5\uC57D\uC218 \uCD5C\uC18C\uACF5\uBC30\uC218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56F73574-6980-4098-9388-4C6EA8B90E79}|\uCD5C\uB300\uACF5\uC57D\uC218, \uCD5C\uB300\uACF5\uBC30\uC218.vcxproj|solutionrelative:\uCD5C\uB300\uACF5\uC57D\uC218 \uCD5C\uC18C\uACF5\uBC30\uC218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uCD5C\uB300\uACF5\uC57D\uC218 \uCD5C\uC18C\uACF5\uBC30\uC218.cpp",
+              "DocumentMoniker": "C:\\Users\\111\\Documents\\ProgrammingCJU2024\\\uCD5C\uB300\uACF5\uC57D\uC218, \uCD5C\uB300\uACF5\uBC30\uC218\\\uCD5C\uB300\uACF5\uC57D\uC218 \uCD5C\uC18C\uACF5\uBC30\uC218.cpp",
+              "RelativeDocumentMoniker": "\uCD5C\uB300\uACF5\uC57D\uC218 \uCD5C\uC18C\uACF5\uBC30\uC218.cpp",
+              "ToolTip": "C:\\Users\\111\\Documents\\ProgrammingCJU2024\\\uCD5C\uB300\uACF5\uC57D\uC218, \uCD5C\uB300\uACF5\uBC30\uC218\\\uCD5C\uB300\uACF5\uC57D\uC218 \uCD5C\uC18C\uACF5\uBC30\uC218.cpp",
+              "RelativeToolTip": "\uCD5C\uB300\uACF5\uC57D\uC218 \uCD5C\uC18C\uACF5\uBC30\uC218.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T07:17:39.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
