@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\111\\Documents\\ProgrammingCJU2024\\\uAC01\uB3C4\uBCC0\uD658(sin, cos)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F94A6CE-AD57-4926-ADF7-69131D04F28C}|\uAC01\uB3C4\uBCC0\uD658(sin, cos).vcxproj|C:\\Users\\111\\Documents\\ProgrammingCJU2024\\\uAC01\uB3C4\uBCC0\uD658(sin, cos)\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F94A6CE-AD57-4926-ADF7-69131D04F28C}|\uAC01\uB3C4\uBCC0\uD658(sin, cos).vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\111\\Documents\\ProgrammingCJU2024\\\uAC01\uB3C4\uBCC0\uD658(sin, cos)\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\Users\\111\\Documents\\ProgrammingCJU2024\\\uAC01\uB3C4\uBCC0\uD658(sin, cos)\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T07:16:11.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
