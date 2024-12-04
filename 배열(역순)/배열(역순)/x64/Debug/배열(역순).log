@@ -1,0 +1,4 @@
+﻿  배열_역순.cpp
+C:\Users\111\Documents\ProgrammingCJU2024\배열(역순)\배열_역순.cpp(47,37): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\111\Documents\ProgrammingCJU2024\배열(역순)\배열_역순.cpp(52,57): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  배열(역순).vcxproj -> C:\Users\111\Documents\ProgrammingCJU2024\배열(역순)\x64\Debug\배열(역순).exe
