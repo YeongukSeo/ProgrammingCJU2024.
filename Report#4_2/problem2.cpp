@@ -13,16 +13,16 @@ void generate_random_numbers(int* array, int size, int min, int max)
 }
 
 // 지정된 범위 내에서 정수를 추출하는 함수
-// 원본 배열(source), 원본 배열 크기(source_size), 대상 배열(dest), 대상 크기(dest_size), 추출 범위(range_min, range_max)
-// source 배열에서 range_min과 range_max 범위에 해당하는 정수를 최대 dest_size만큼 추출하여 dest 배열에 저장
-int extract_numbers(int* source, int source_size, int* dest, int dest_size, int range_min, int range_max)
+// 원본 배열(numbers), 원본 배열 크기(numbers_size), 추출된 정수를 저장할 배열(new_array), 저장가능한 최대 크기(new_array_size), 추출 범위(range_min, range_max)
+// numbers 배열에서 range_min과 range_max 범위에 해당하는 정수를 최대 new_array_size만큼 추출하여 new_array 배열에 저장
+int extract_numbers(int* numbers, int numbers_size, int* new_array, int new_array_size, int range_min, int range_max)
 {
     int count = 0; // 추출된 정수 개수 초기화
-    for (int i = 0; i < source_size && count < dest_size; i++)
+    for (int i = 0; i < numbers_size && count < new_array_size; i++)
     {
-        if (source[i] >= range_min && source[i] <= range_max) // 범위 검사
+        if (numbers[i] >= range_min && numbers[i] <= range_max) // 범위 검사
         {
-            dest[count++] = source[i]; // 추출된 정수를 대상 배열에 저장
+            new_array[count++] = numbers[i]; // 추출된 정수를 대상 배열에 저장
         }
     }
     return count; // 추출된 정수 개수 반환
