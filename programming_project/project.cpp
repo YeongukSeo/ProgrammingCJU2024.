@@ -1,7 +1,7 @@
-#include <stdio.h>    // 표준 입출력 함수들을 사용하기 위한 헤더
-#include <stdlib.h>   // 일반 유틸리티 함수들(예: 메모리 할당, 난수 생성)을 사용하기 위한 헤더
-#include <math.h>     // 수학 함수들(예: cos, sin)을 사용하기 위한 헤더
-#include <time.h>     // 시간 관련 함수들(예: time, srand)을 사용하기 위한 헤더
+#include <stdio.h>    
+#include <stdlib.h>   // 메모리 할당, 난수 생성을 사용하기 위한 헤더
+#include <math.h>    
+#include <time.h>    
 
 #define NUM_PARTICLES 100    // 시뮬레이션에 사용할 입자 수
 #define TIME_STEPS 1000      // 시뮬레이션할 시간 단계의 수
