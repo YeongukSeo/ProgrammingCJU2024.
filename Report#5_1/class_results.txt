@@ -1,0 +1,49 @@
+Class 1 Average: 85.60
+Class 2 Average: 85.97
+Overall Average: 85.78
+
+Class 1 Rank Distribution:
+Rank 1: Irene (ID: 1009)
+Rank 2: Jack (ID: 1010)
+Rank 3: Bob (ID: 1002)
+Rank 3: Charlie (ID: 1003)
+Rank 3: Diana (ID: 1004)
+Rank 3: Frank (ID: 1006)
+Rank 7: Hannah (ID: 1008)
+Rank 8: Alice (ID: 1001)
+Rank 9: Edward (ID: 1005)
+Rank 9: Grace (ID: 1007)
+
+Class 2 Rank Distribution:
+Rank 1: Sarah (ID: 2009)
+Rank 2: Paul (ID: 2006)
+Rank 3: Laura (ID: 2002)
+Rank 4: Nancy (ID: 2004)
+Rank 5: Thomas (ID: 2010)
+Rank 6: Michael (ID: 2003)
+Rank 6: Queen (ID: 2007)
+Rank 8: Olivia (ID: 2005)
+Rank 8: Robert (ID: 2008)
+Rank 10: Kevin (ID: 2001)
+
+Overall Rank Distribution:
+Rank 1: Sarah (ID: 2009)
+Rank 2: Irene (ID: 1009)
+Rank 3: Paul (ID: 2006)
+Rank 4: Laura (ID: 2002)
+Rank 5: Jack (ID: 1010)
+Rank 5: Nancy (ID: 2004)
+Rank 7: Thomas (ID: 2010)
+Rank 8: Bob (ID: 1002)
+Rank 8: Charlie (ID: 1003)
+Rank 8: Diana (ID: 1004)
+Rank 8: Frank (ID: 1006)
+Rank 12: Michael (ID: 2003)
+Rank 12: Queen (ID: 2007)
+Rank 14: Hannah (ID: 1008)
+Rank 15: Alice (ID: 1001)
+Rank 16: Olivia (ID: 2005)
+Rank 16: Robert (ID: 2008)
+Rank 18: Edward (ID: 1005)
+Rank 18: Grace (ID: 1007)
+Rank 20: Kevin (ID: 2001)
